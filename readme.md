@@ -12,4 +12,4 @@ An artificial neural network is an interconnected group of nodes, akin to the va
 ### Version
 ##### 1.0
 * Initialize Project
-* Language Added : PHP (v1.0)
+* Language Added : Python (v1.0)
