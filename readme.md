@@ -1,11 +1,16 @@
 # Artificial Neural Network
 
-An artificial neural network is an interconnected group of nodes, akin to the vast network of neurons in a brain.
+Artificial Neural Network (ANN) is replica of neuron system in human brain. The human brain is composed by billions neuron which are interconnected each others.
+
+### Methods
+  - Bag of Words
+  - Backpropagation Neural Network
+  
+Logic and algorithm guided by Mrs. Lili Ayu Wulandhari, S.Si., M.Sc., Ph.D.
 
 ### What can I use this for?
-  - Classify Twitter user mood based on his/her tweets
-  - Classify News topics
-  - Simple chatbot
+  - Sentiment analysis
+  - Document classify
   - Forecasting
   - And many things
 
