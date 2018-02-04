@@ -1,4 +1,4 @@
-# Naive Bayes Classifier
+# Artificial Neural Network
 
 An artificial neural network is an interconnected group of nodes, akin to the vast network of neurons in a brain.
 
